@@ -1,4 +1,4 @@
-This is code implemented for this AAAI submission
+This is code implemented for Paper: EACon
 
 1. `Mixtral` contains the code running with Mixtral 8x7B
 2. `Vicuna` contains the code running with Vicuna 13B
